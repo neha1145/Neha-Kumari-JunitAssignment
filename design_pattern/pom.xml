@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.epam</groupId>
-  <artifactId>collection_assignment</artifactId>
+  <artifactId>design_pattern</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>collection_assignment</name>
+  <name>design_pattern</name>
   <url>http://maven.apache.org</url>
 
   <properties>

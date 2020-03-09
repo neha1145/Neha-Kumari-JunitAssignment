@@ -1,4 +1,4 @@
-package com.epam.collection_assignment;
+package com.epam.design_pattern;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
